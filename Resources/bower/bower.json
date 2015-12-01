@@ -31,6 +31,6 @@
         "fontawesome"               : "*",
         "ionicons"                  : "*",
         "fullcalendar"              : "*",
-        "adminlte"                  : ">=2.0.0 <3.0"
+        "adminlte"                  : "https://github.com/pdesmarais/AdminLTE.git"
     }
 }
