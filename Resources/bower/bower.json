@@ -23,7 +23,7 @@
         "underscore"                : ">=1.0.0 <2.0",
         "modernizr"                 : ">=2.5.0 <3.0",
         "spinjs"                    : "*",
-        "marionette"                : "*",
+        "marionette"                : ">=2.0 <3.0",
         "pickadate"                 : "*",
         "holderjs"                  : "*",
         "bootflat"                  : "*",
